@@ -1,0 +1,70 @@
+.body{
+    height: 100%;
+
+    background-image: linear-gradient(#00c3ff,#ffff1c) !important;
+
+}
+
+.navbar-brand img{
+        height: 7vh;
+        width: 50px;
+        background-image: linear-gradient(to right, #636363,#a2ab58) !important ;
+
+}
+.navbar{
+        
+        background-image: linear-gradient(to right,#40e0d0,#ff8c00,#ff0080) !important;
+
+}
+.dropdown-menu{
+
+        background-image: linear-gradient( #fc5c7d, #6a82fb);
+
+}
+.form-control{
+
+        background-image: linear-gradient(#ffefba, #ffffff);
+
+}
+.carousel-item{
+    width: fit-content;
+    height: fit-content;
+    
+}
+.card img{
+
+    height:fit-content;
+
+}
+.card{
+    width: vw;
+    transition:all ease .5s;
+    background-image:linear-gradient(#c6ffdd,#fbd786,#f7797d)
+}
+.card:hover{
+
+    box-shadow: 10px 10px 15px gray;
+    margin-left: -1rem;
+    cursor: pointer;
+
+}
+.about-main img{
+
+    height: 12vh;
+    width: 10vw;
+    background-image: linear-gradient( #636363,#a2ab58);
+    border-radius: .2rem;
+}
+.scj{
+    padding-top: 20px;
+
+
+}
+.feedback{
+    padding-top: 50px;
+}
+.text-left{
+
+    padding-top: 10px;
+}
+
